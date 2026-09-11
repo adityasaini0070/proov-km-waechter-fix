@@ -23,7 +23,7 @@ print("=" * 60)
 # For each feature we compute three things:
 #   * mean for each group (broke vs fine)
 #   * Cohen's d  - a unit-free effect size.  |d| > 0.2 small, >0.5 medium, >0.8 large
-#   * Mann-Whitney U p-value - a non-parametric significance test that makes no
+#   * Mann-Whitney U  p-value - a non-parametric significance test that makes no
 #     assumption about how the data is distributed (unlike a t-test).
 #
 # This lets the numbers answer the question instead of us guessing.
