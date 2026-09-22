@@ -44,3 +44,5 @@ this template.
 ---
 
 This challenge is part of the ProoV project "The Legacy Fix" — https://projectstudy.in/explore/experience-legacy-fix
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/adityasaini0070/proov-km-waechter-fix?utm_source=oss&utm_medium=github&utm_campaign=adityasaini0070%2Fproov-km-waechter-fix&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
